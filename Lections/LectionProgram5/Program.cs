@@ -14,7 +14,6 @@ public class Query
     public Task<List<Book>> GetBooks([Service] Repository repository) => repository.GetBooksAsync();
 
     public Task<List<Book>> GetBooksByAuthorId([Service] Repository repository, int authorId) => repository.GetBooksAsync(authorId);
-
 }
 
 public class Mutation
