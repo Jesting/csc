@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "rC7l5tcUiQCexAIjivxby1JvLWREwckBAf9NjsybBFiidtQACnoySjQPqSJIBMhK5HeiyDvBaSOpK9EIFvRvFg==",
+  "success": true,
+  "projectFilePath": "/Users/kirillorlov/csac/M/repo/Lections/Lection15Program1/Lection15Program1.csproj",
+  "expectedPackageFiles": [
+    "/Users/kirillorlov/.nuget/packages/microsoft.extensions.logging.abstractions/6.0.0/microsoft.extensions.logging.abstractions.6.0.0.nupkg.sha512",
+    "/Users/kirillorlov/.nuget/packages/npgsql/7.0.4/npgsql.7.0.4.nupkg.sha512"
+  ],
+  "logs": []
+}

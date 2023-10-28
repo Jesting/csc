@@ -1,0 +1,28 @@
+﻿<Properties StartupConfiguration="{9A0484E1-F87D-4043-83F6-B902FAD0519B}|Default">
+  <MonoDevelop.Ide.ItemProperties.Lection1Program1 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Lection1Program2/Program.cs">
+    <Files>
+      <File FileName="Lection1Program2/Program.cs" Line="8" Column="24" />
+      <File FileName="Lection1Program1/Program.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Lection1" expanded="True">
+            <Node name="Lection1Program1" expanded="True" />
+            <Node name="Lection1Program2" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Lection1Program2 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/korlov/csac/lessons/Lection1/Lection1Program2/Program.cs" relfile="Lection1Program2/Program.cs" line="7" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

@@ -1,0 +1,14 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net7.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Lection11Interface2\Lection17Interface2.csproj" />
+    <ProjectReference Include="..\Lection17Interface1\Lection17Interface1.csproj" />
+  </ItemGroup>
+</Project>

@@ -1,0 +1,15 @@
+/Users/kirillorlov/csac/L/Lection1/Lection17Library2/bin/Debug/net7.0/Lection17Library2.deps.json
+/Users/kirillorlov/csac/L/Lection1/Lection17Library2/bin/Debug/net7.0/Lection17Library2.dll
+/Users/kirillorlov/csac/L/Lection1/Lection17Library2/bin/Debug/net7.0/Lection17Library2.pdb
+/Users/kirillorlov/csac/L/Lection1/Lection17Library2/bin/Debug/net7.0/Lection17Interface1.dll
+/Users/kirillorlov/csac/L/Lection1/Lection17Library2/bin/Debug/net7.0/Lection17Interface1.pdb
+/Users/kirillorlov/csac/L/Lection1/Lection17Library2/obj/Debug/net7.0/Lection17Library2.csproj.AssemblyReference.cache
+/Users/kirillorlov/csac/L/Lection1/Lection17Library2/obj/Debug/net7.0/Lection17Library2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kirillorlov/csac/L/Lection1/Lection17Library2/obj/Debug/net7.0/Lection17Library2.AssemblyInfoInputs.cache
+/Users/kirillorlov/csac/L/Lection1/Lection17Library2/obj/Debug/net7.0/Lection17Library2.AssemblyInfo.cs
+/Users/kirillorlov/csac/L/Lection1/Lection17Library2/obj/Debug/net7.0/Lection17Library2.csproj.CoreCompileInputs.cache
+/Users/kirillorlov/csac/L/Lection1/Lection17Library2/obj/Debug/net7.0/Lection17Library2.csproj.CopyComplete
+/Users/kirillorlov/csac/L/Lection1/Lection17Library2/obj/Debug/net7.0/Lection17Library2.dll
+/Users/kirillorlov/csac/L/Lection1/Lection17Library2/obj/Debug/net7.0/refint/Lection17Library2.dll
+/Users/kirillorlov/csac/L/Lection1/Lection17Library2/obj/Debug/net7.0/Lection17Library2.pdb
+/Users/kirillorlov/csac/L/Lection1/Lection17Library2/obj/Debug/net7.0/ref/Lection17Library2.dll
