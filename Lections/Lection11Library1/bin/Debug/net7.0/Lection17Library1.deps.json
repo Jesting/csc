@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "Lection17Library1/1.0.0": {
+        "dependencies": {
+          "Lection17Interface1": "1.0.0"
+        },
+        "runtime": {
+          "Lection17Library1.dll": {}
+        }
+      },
+      "Lection17Interface1/1.0.0": {
+        "runtime": {
+          "Lection17Interface1.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Lection17Library1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Lection17Interface1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

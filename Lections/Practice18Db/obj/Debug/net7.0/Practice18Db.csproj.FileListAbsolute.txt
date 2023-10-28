@@ -1,0 +1,14 @@
+/Users/kirillorlov/csac/L/Lection1/Practice18Db/obj/Debug/net7.0/Practice18Db.csproj.AssemblyReference.cache
+/Users/kirillorlov/csac/L/Lection1/Practice18Db/obj/Debug/net7.0/Practice18Db.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kirillorlov/csac/L/Lection1/Practice18Db/obj/Debug/net7.0/Practice18Db.AssemblyInfoInputs.cache
+/Users/kirillorlov/csac/L/Lection1/Practice18Db/obj/Debug/net7.0/Practice18Db.AssemblyInfo.cs
+/Users/kirillorlov/csac/L/Lection1/Practice18Db/obj/Debug/net7.0/Practice18Db.csproj.CoreCompileInputs.cache
+/Users/kirillorlov/csac/L/Lection1/Practice18Db/bin/Debug/net7.0/Practice18Db.deps.json
+/Users/kirillorlov/csac/L/Lection1/Practice18Db/bin/Debug/net7.0/Practice18Db.runtimeconfig.json
+/Users/kirillorlov/csac/L/Lection1/Practice18Db/bin/Debug/net7.0/Practice18Db.dll
+/Users/kirillorlov/csac/L/Lection1/Practice18Db/bin/Debug/net7.0/Practice18Db.pdb
+/Users/kirillorlov/csac/L/Lection1/Practice18Db/obj/Debug/net7.0/Practice18Db.dll
+/Users/kirillorlov/csac/L/Lection1/Practice18Db/obj/Debug/net7.0/refint/Practice18Db.dll
+/Users/kirillorlov/csac/L/Lection1/Practice18Db/obj/Debug/net7.0/Practice18Db.pdb
+/Users/kirillorlov/csac/L/Lection1/Practice18Db/obj/Debug/net7.0/Practice18Db.genruntimeconfig.cache
+/Users/kirillorlov/csac/L/Lection1/Practice18Db/obj/Debug/net7.0/ref/Practice18Db.dll

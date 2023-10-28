@@ -1,0 +1,15 @@
+/Users/kirillorlov/csac/L/Lection1/Lection13Program12/bin/Debug/net7.0/Lection13Program12
+/Users/kirillorlov/csac/L/Lection1/Lection13Program12/bin/Debug/net7.0/Lection13Program12.deps.json
+/Users/kirillorlov/csac/L/Lection1/Lection13Program12/bin/Debug/net7.0/Lection13Program12.runtimeconfig.json
+/Users/kirillorlov/csac/L/Lection1/Lection13Program12/bin/Debug/net7.0/Lection13Program12.dll
+/Users/kirillorlov/csac/L/Lection1/Lection13Program12/bin/Debug/net7.0/Lection13Program12.pdb
+/Users/kirillorlov/csac/L/Lection1/Lection13Program12/obj/Debug/net7.0/Lection13Program12.csproj.AssemblyReference.cache
+/Users/kirillorlov/csac/L/Lection1/Lection13Program12/obj/Debug/net7.0/Lection13Program12.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kirillorlov/csac/L/Lection1/Lection13Program12/obj/Debug/net7.0/Lection13Program12.AssemblyInfoInputs.cache
+/Users/kirillorlov/csac/L/Lection1/Lection13Program12/obj/Debug/net7.0/Lection13Program12.AssemblyInfo.cs
+/Users/kirillorlov/csac/L/Lection1/Lection13Program12/obj/Debug/net7.0/Lection13Program12.csproj.CoreCompileInputs.cache
+/Users/kirillorlov/csac/L/Lection1/Lection13Program12/obj/Debug/net7.0/Lection13Program12.dll
+/Users/kirillorlov/csac/L/Lection1/Lection13Program12/obj/Debug/net7.0/refint/Lection13Program12.dll
+/Users/kirillorlov/csac/L/Lection1/Lection13Program12/obj/Debug/net7.0/Lection13Program12.pdb
+/Users/kirillorlov/csac/L/Lection1/Lection13Program12/obj/Debug/net7.0/Lection13Program12.genruntimeconfig.cache
+/Users/kirillorlov/csac/L/Lection1/Lection13Program12/obj/Debug/net7.0/ref/Lection13Program12.dll

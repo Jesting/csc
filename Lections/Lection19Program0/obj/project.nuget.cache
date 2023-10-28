@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "650h8xgkFpNLwjB+RfkV+tflxvdM5rCcAHlam4pwZXeoP8frZbDgvGsh/IvLwYblHs1cioycvKqpj/q/+5ntqQ==",
+  "success": true,
+  "projectFilePath": "/Users/kirillorlov/csac/M/repo/Lections/Lection19Program0/Lection19Program0.csproj",
+  "expectedPackageFiles": [
+    "/Users/kirillorlov/.nuget/packages/autofac/7.1.0/autofac.7.1.0.nupkg.sha512",
+    "/Users/kirillorlov/.nuget/packages/system.diagnostics.diagnosticsource/4.7.1/system.diagnostics.diagnosticsource.4.7.1.nupkg.sha512"
+  ],
+  "logs": []
+}

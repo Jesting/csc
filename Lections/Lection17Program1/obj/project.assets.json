@@ -1,0 +1,133 @@
+{
+  "version": 3,
+  "targets": {
+    "net7.0": {
+      "Lection17Interface1/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "compile": {
+          "bin/placeholder/Lection17Interface1.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Lection17Interface1.dll": {}
+        }
+      },
+      "Lection17Library1/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "dependencies": {
+          "Lection17Interface1": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Lection17Library1.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Lection17Library1.dll": {}
+        }
+      },
+      "Lection17Library2/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "dependencies": {
+          "Lection17Interface1": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Lection17Library2.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Lection17Library2.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Lection17Interface1/1.0.0": {
+      "type": "project",
+      "path": "../Lection17Interface1/Lection17Interface1.csproj",
+      "msbuildProject": "../Lection17Interface1/Lection17Interface1.csproj"
+    },
+    "Lection17Library1/1.0.0": {
+      "type": "project",
+      "path": "../Lection11Library1/Lection17Library1.csproj",
+      "msbuildProject": "../Lection11Library1/Lection17Library1.csproj"
+    },
+    "Lection17Library2/1.0.0": {
+      "type": "project",
+      "path": "../Lection17Library2/Lection17Library2.csproj",
+      "msbuildProject": "../Lection17Library2/Lection17Library2.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net7.0": [
+      "Lection17Interface1 >= 1.0.0",
+      "Lection17Library1 >= 1.0.0",
+      "Lection17Library2 >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "/Users/kirillorlov/.nuget/packages/": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "/Users/kirillorlov/csac/M/repo/Lections/Lection17Program1/Lection17Program1.csproj",
+      "projectName": "Lection17Program1",
+      "projectPath": "/Users/kirillorlov/csac/M/repo/Lections/Lection17Program1/Lection17Program1.csproj",
+      "packagesPath": "/Users/kirillorlov/.nuget/packages/",
+      "outputPath": "/Users/kirillorlov/csac/M/repo/Lections/Lection17Program1/obj/",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "/Users/kirillorlov/.nuget/NuGet/NuGet.Config"
+      ],
+      "originalTargetFrameworks": [
+        "net7.0"
+      ],
+      "sources": {
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "projectReferences": {
+            "/Users/kirillorlov/csac/M/repo/Lections/Lection11Library1/Lection17Library1.csproj": {
+              "projectPath": "/Users/kirillorlov/csac/M/repo/Lections/Lection11Library1/Lection17Library1.csproj"
+            },
+            "/Users/kirillorlov/csac/M/repo/Lections/Lection17Interface1/Lection17Interface1.csproj": {
+              "projectPath": "/Users/kirillorlov/csac/M/repo/Lections/Lection17Interface1/Lection17Interface1.csproj"
+            },
+            "/Users/kirillorlov/csac/M/repo/Lections/Lection17Library2/Lection17Library2.csproj": {
+              "projectPath": "/Users/kirillorlov/csac/M/repo/Lections/Lection17Library2/Lection17Library2.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net7.0": {
+        "targetAlias": "net7.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.309/RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

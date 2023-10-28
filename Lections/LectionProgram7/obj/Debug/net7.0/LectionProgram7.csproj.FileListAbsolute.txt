@@ -1,0 +1,15 @@
+/Users/kirillorlov/csac/L/Lection1/LectionProgram7/bin/Debug/net7.0/LectionProgram7
+/Users/kirillorlov/csac/L/Lection1/LectionProgram7/bin/Debug/net7.0/LectionProgram7.deps.json
+/Users/kirillorlov/csac/L/Lection1/LectionProgram7/bin/Debug/net7.0/LectionProgram7.runtimeconfig.json
+/Users/kirillorlov/csac/L/Lection1/LectionProgram7/bin/Debug/net7.0/LectionProgram7.dll
+/Users/kirillorlov/csac/L/Lection1/LectionProgram7/bin/Debug/net7.0/LectionProgram7.pdb
+/Users/kirillorlov/csac/L/Lection1/LectionProgram7/obj/Debug/net7.0/LectionProgram7.csproj.AssemblyReference.cache
+/Users/kirillorlov/csac/L/Lection1/LectionProgram7/obj/Debug/net7.0/LectionProgram7.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kirillorlov/csac/L/Lection1/LectionProgram7/obj/Debug/net7.0/LectionProgram7.AssemblyInfoInputs.cache
+/Users/kirillorlov/csac/L/Lection1/LectionProgram7/obj/Debug/net7.0/LectionProgram7.AssemblyInfo.cs
+/Users/kirillorlov/csac/L/Lection1/LectionProgram7/obj/Debug/net7.0/LectionProgram7.csproj.CoreCompileInputs.cache
+/Users/kirillorlov/csac/L/Lection1/LectionProgram7/obj/Debug/net7.0/LectionProgram7.dll
+/Users/kirillorlov/csac/L/Lection1/LectionProgram7/obj/Debug/net7.0/refint/LectionProgram7.dll
+/Users/kirillorlov/csac/L/Lection1/LectionProgram7/obj/Debug/net7.0/LectionProgram7.pdb
+/Users/kirillorlov/csac/L/Lection1/LectionProgram7/obj/Debug/net7.0/LectionProgram7.genruntimeconfig.cache
+/Users/kirillorlov/csac/L/Lection1/LectionProgram7/obj/Debug/net7.0/ref/LectionProgram7.dll
