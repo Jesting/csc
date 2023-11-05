@@ -1,10 +1,64 @@
-﻿<Properties StartupConfiguration="{8F6FCAFF-4F0A-48B3-96EA-62987D831515}|Default">
-  <MonoDevelop.Ide.ItemProperties.14.Lection14Program18 PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.ItemProperties.18.Lection18Program1 PreferredExecutionTarget="/System/Volumes/Preboot/Cryptexes/App/System/Applications/Safari.app" />
+﻿<Properties StartupConfiguration="{26AD7183-40F3-4CA1-A41B-9B2C9B2A278E}|https">
+  <MonoDevelop.Ide.ItemProperties.8.Lection8Program1 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.3.Lection3Program4 PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.14.Lection14Program16 PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.ItemProperties.14.Lection14Program21 PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.ItemProperties.12.Lection12Program5 PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.ItemProperties.19.Lection19Program2 PreferredExecutionTarget="/System/Volumes/Preboot/Cryptexes/App/System/Applications/Safari.app" />
+  <MonoDevelop.Ide.ItemProperties.13.Lection13Program11 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.14.Lection14Program8 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.18.Lection18Program2 PreferredExecutionTarget="/System/Volumes/Preboot/Cryptexes/App/System/Applications/Safari.app" />
+  <MonoDevelop.Ide.ItemProperties.14.Lection14Program13 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.14.Lection14Program12 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.13.Lection13Program2 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.1.Lection1Program2 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.17.Lection17Program8 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.13.Lection13Program5 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.13.Lection13Program10 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.16.Lection16Program1Tests PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.20.LectionProgram5 PreferredExecutionTarget="/System/Volumes/Preboot/Cryptexes/App/System/Applications/Safari.app" />
+  <MonoDevelop.Ide.ItemProperties.20.Lection20Program2 PreferredExecutionTarget="/System/Volumes/Preboot/Cryptexes/App/System/Applications/Safari.app" />
+  <MonoDevelop.Ide.ItemProperties.12.Lection12Program6 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <Breakpoint file="/Users/kirillorlov/csac/M/repo/Lections/Lection1Program2/Program.cs" relfile="Lection1Program2/Program.cs" line="7" column="1" />
+    <Breakpoint file="/Users/kirillorlov/csac/M/repo/Lections/Lection3Program1/Person.cs" relfile="Lection3Program1/Person.cs" line="111" column="1" />
+    <Breakpoint file="/Users/kirillorlov/csac/M/repo/Lections/Lection3Program1/Person.cs" relfile="Lection3Program1/Person.cs" line="18" column="1" />
+    <Breakpoint file="/Users/kirillorlov/csac/M/repo/Lections/Lection19Program1/Controllers/WeatherForecastController.cs" relfile="Lection19Program1/Controllers/WeatherForecastController.cs" line="19" column="1" />
+    <Breakpoint file="/Users/kirillorlov/csac/M/repo/Lections/Lection19Program2/Controllers/LibraryController.cs" relfile="Lection19Program2/Controllers/LibraryController.cs" line="95" column="1" />
+    <Breakpoint file="/Users/kirillorlov/csac/M/repo/Lections/Practice19Api/Repo/ProductRepository.cs" relfile="Practice19Api/Repo/ProductRepository.cs" line="79" column="1" />
+    <Breakpoint file="/Users/kirillorlov/csac/M/repo/Lections/Practice19Api/Repo/ProductRepository.cs" relfile="Practice19Api/Repo/ProductRepository.cs" line="44" column="1" />
+    <Breakpoint file="/Users/kirillorlov/csac/M/repo/Lections/Lection20Program3/Program.cs" relfile="Lection20Program3/Program.cs" line="24" column="1" />
+    <Breakpoint file="/Users/kirillorlov/csac/M/repo/Lections/Practice20/Program.cs" relfile="Practice20/Program.cs" line="28" column="1" />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.5.Lection5Program5 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.3.Lection3Program5 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.11.Lection11Program1 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.16.Lection16Program3Tests PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.13.Lection13Program3 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.16.Lection16Program2Tests PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.14.Lection14Program18 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.12.Lection12Program1 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.20.Lection20Program3 PreferredExecutionTarget="/System/Volumes/Preboot/Cryptexes/App/System/Applications/Safari.app" />
+  <MonoDevelop.Ide.ItemProperties.20.Practice20GrapQL PreferredExecutionTarget="/System/Volumes/Preboot/Cryptexes/App/System/Applications/Safari.app" />
+  <MonoDevelop.Ide.ItemProperties.20.Lection20Program1 PreferredExecutionTarget="/System/Volumes/Preboot/Cryptexes/App/System/Applications/Safari.app" />
+  <MonoDevelop.Ide.ItemProperties.13.Lection13Program9 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations>
+    <MultiItemSolutionRunConfiguration Id="1" Name="1">
+      <Items>
+        <StartupItem ItemId="{62982878-7D85-4332-95E8-2EE074248885}" ItemName="Lection9Program1" ConfigurationId="Default" />
+        <StartupItem ItemId="{706BF189-5AA3-4808-B9EB-A32969812AD3}" ItemName="Lection9Program2" ConfigurationId="Default" />
+      </Items>
+    </MultiItemSolutionRunConfiguration>
+  </MultiItemStartupConfigurations>
+  <MonoDevelop.Ide.ItemProperties.11.Lection11Program2 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.12.Lection12Program2 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.14.Lection14Program2 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.15.Lection15Program1 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.14.Lection14Program6 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.17.Lection17Program4 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.14.Lection14Program4 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.21.Lection21Program1 PreferredExecutionTarget="/System/Volumes/Preboot/Cryptexes/App/System/Applications/Safari.app" />
+  <MonoDevelop.Ide.ItemProperties.21.11 FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.3.Lection3Program1 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.12.Lection12Program8 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.14.Lection14Program9 PreferredExecutionTarget="MonoDevelop.Default" />
   <DisabledProjects>
     <String>Lection16Program1/Lection16Program1Tests/Lection16Program1Tests.csproj</String>
     <String>Lection15Program1/Lection15Program3/Lection15Program3.csproj</String>
@@ -15,130 +69,117 @@
     <String>Lection20Program1/Lection20Program2/Lection20Program2.csproj</String>
     <String>Lection20Program1/Lection20Program3/Lection20Program3.csproj</String>
   </DisabledProjects>
-  <MonoDevelop.Ide.ItemProperties.20.Lection20Program4 PreferredExecutionTarget="/System/Volumes/Preboot/Cryptexes/App/System/Applications/Safari.app" />
-  <MonoDevelop.Ide.ItemProperties.13.Lection13Program7 PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.ItemProperties.5.Lection5Program4 PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.ItemProperties.20.Practice20GrapQL PreferredExecutionTarget="/System/Volumes/Preboot/Cryptexes/App/System/Applications/Safari.app" FirstBuild="True" />
-  <MonoDevelop.Ide.ItemProperties.11.Lection11Program8 PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.ItemProperties.15.Lection15Program1 PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.17.Lection17Program2 PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.ItemProperties.17.Lection17Program9 PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.ItemProperties.7.Lection7Program1 PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.ItemProperties.14.Lection14Program13 PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.ItemProperties.12.Lection12Program7 PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.ItemProperties.11.Lection11Program1 PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.ItemProperties.14.Lection14Program19 PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.ItemProperties.11.Lection11Program9 PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.ItemProperties.14.Lection14Program12 PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.ItemProperties.17.Lection17Program7 PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.ItemProperties.14.Lection14Program10 PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.ItemProperties.8.Lection8Program1 PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.ItemProperties.13.Lection13Program5 PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.ItemProperties.13.Lection13Program3 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.11.Lection11Program3 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.2.Lection2Program2 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.11.Lection11Program7 PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.14.Lection14Program7 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.13.Lection13Program13 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.17.Lection17Program1 PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.17.Lection17Program5 PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.ItemProperties.3.Lection3Program1 PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.ItemProperties.14.Lection14Program1 PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="LectionProgram5/Program.cs">
+  <MonoDevelop.Ide.ItemProperties.16.Lection16Program2 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.17.Lection17Program3 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.11.Lection11Program8 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.13.Lection13Program12 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.14.Lection14Program15 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.5.Lection5Program3 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.11.Lection11Program6 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.19.Lection19Program1 PreferredExecutionTarget="/System/Volumes/Preboot/Cryptexes/App/System/Applications/Safari.app" />
+  <MonoDevelop.Ide.ItemProperties.17.Lection17Program9 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.17.Lection17Program6 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.11.Lection11Program9 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.21.Lection21Program PreferredExecutionTarget="/System/Volumes/Preboot/Cryptexes/App/System/Applications/Safari.app" />
+  <MonoDevelop.Ide.ItemProperties.17.Lection17Program7 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.3.Lection3Program6 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.19.Practice19Api PreferredExecutionTarget="/System/Volumes/Preboot/Cryptexes/App/System/Applications/Safari.app" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Lection21Program1/Repository/UserRepository.cs">
     <Files>
-      <File FileName="LectionProgram5/Program.cs" Line="29" Column="6" />
+      <File FileName="Lection21Program1/Program.cs" Line="63" Column="1" />
+      <File FileName="Lection21Program1/appsettings.json" />
+      <File FileName="Lection21Program1/AuthorizationModel/UserModel.cs" Line="8" Column="21" />
+      <File FileName="Lection21Program1/AuthorizationModel/UserRole.cs" Line="4" Column="14" />
+      <File FileName="Lection21Program1/AuthorizationModel/LoginModel.cs" Line="1" Column="1" />
+      <File FileName="Lection21Program1/Controllers/LoginController.cs" Line="79" Column="81" />
+      <File FileName="Lection21Program1/Controllers/RestrictedController.cs" Line="16" Column="44" />
+      <File FileName="Lection21Program1/Properties/launchSettings.json" Line="1" Column="1" />
+      <File FileName="Lection21Program1/Db/Gender.cs" Line="5" Column="23" />
+      <File FileName="Lection21Program1/Db/User.cs" Line="15" Column="1" />
+      <File FileName="Lection21Program1/Db/UserContext.cs" Line="11" Column="53" />
+      <File FileName="Lection21Program1/Db/RoleId.cs" Line="4" Column="2" />
+      <File FileName="Lection21Program1/Repository/UserRepository.cs" Line="28" Column="30" />
+      <File FileName="Lection21Program1/Repository/IUserRepository.cs" Line="9" Column="21" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="Lections">
-            <Node name="20">
-              <Node name="LectionProgram5" selected="True" />
+            <Node name="15">
+              <Node name="Lection15Program5" expanded="True">
+                <Node name="Dependencies" expanded="True">
+                  <Node name="PackageDependencies" expanded="True" />
+                </Node>
+                <Node name="Model" expanded="True" />
+              </Node>
+              <Node name="Lection15Program6" expanded="True">
+                <Node name="Model" expanded="True" />
+              </Node>
+            </Node>
+            <Node name="21" expanded="True">
+              <Node name="Lection21Program1">
+                <Node name="AuthorizationModel" expanded="True" />
+                <Node name="Controllers" expanded="True" />
+                <Node name="Db" expanded="True" />
+                <Node name="Repository">
+                  <Node name="UserRepository.cs" selected="True" />
+                </Node>
+              </Node>
             </Node>
           </Node>
         </State>
       </Pad>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="Lections" expanded="True" selected="True" />
+        </State>
+      </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.Ide.ItemProperties.13.Lection13Program4 PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.ItemProperties.11.Lection11Program7 PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.ItemProperties.20.Lection20Program2 PreferredExecutionTarget="/System/Volumes/Preboot/Cryptexes/App/System/Applications/Safari.app" />
-  <MonoDevelop.Ide.ItemProperties.5.Lection5Program3 PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.ItemProperties.3.Lection3Program2 PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.ItemProperties.3.Lection3Program4 PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.ItemProperties.14.Lection14Program14 PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.ItemProperties.19.Practice19Api PreferredExecutionTarget="/System/Volumes/Preboot/Cryptexes/App/System/Applications/Safari.app" />
-  <MonoDevelop.Ide.ItemProperties.1.Lection1Program1 PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.ItemProperties.14.Lection14Program15 PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.ItemProperties.19.Lection19Program1 PreferredExecutionTarget="/System/Volumes/Preboot/Cryptexes/App/System/Applications/Safari.app" />
-  <MonoDevelop.Ide.ItemProperties.2.Lection2Program1 PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.ItemProperties.20.LectionProgram5 PreferredExecutionTarget="/System/Volumes/Preboot/Cryptexes/App/System/Applications/Safari.app" />
-  <MonoDevelop.Ide.ItemProperties.12.Lection12Program8 PreferredExecutionTarget="MonoDevelop.Default" />
-  <Debugger.DebugSourceFolders />
-  <MonoDevelop.Ide.ItemProperties.17.Lection17Program8 PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.ItemProperties.11.Lection11Program6 PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.ItemProperties.17.Lection17Program6 PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.ItemProperties.13.Lection13Program1 PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.ItemProperties.11.Lection11Program5 PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.ItemProperties.5.Lection5Program5 PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.ItemProperties.9.Lection9Program1 PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.3.Lection3Program3 PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.ItemProperties.20.Lection20Program3 PreferredExecutionTarget="/System/Volumes/Preboot/Cryptexes/App/System/Applications/Safari.app" />
-  <MonoDevelop.Ide.ItemProperties.20.Lection20Program1 PreferredExecutionTarget="/System/Volumes/Preboot/Cryptexes/App/System/Applications/Safari.app" />
-  <MonoDevelop.Ide.ItemProperties.12.Lection12Program1 PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.ItemProperties.18.Practice18Api PreferredExecutionTarget="/System/Volumes/Preboot/Cryptexes/App/System/Applications/Safari.app" />
-  <MonoDevelop.Ide.ItemProperties.14.Lection14Program11 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.14.Lection14Program19 PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.13.Lection13Program8 PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.ItemProperties.13.Lection13Program11 PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.ItemProperties.13.Lection13Program12 PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.ItemProperties.14.Lection14Program17 PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.ItemProperties.13.Lection13Program9 PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.ItemProperties.12.Lection12Program4 PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.ItemProperties.16.Lection16Program2Tests PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.ItemProperties.14.Lection14Program3 PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.ItemProperties.16.Lection16Program3Tests PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.ItemProperties.16.Lection16Program1Tests PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.ItemProperties.2.Lection2Program2 PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.ItemProperties.13.Lection13Program2 PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.ItemProperties.17.Lection17Program3 PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.ItemProperties.17.Lection17Program1 PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.ItemProperties.16.Lection16Program2 PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.ItemProperties.1.Lection1Program2 PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.ItemProperties.11.Lection11Program2 PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.ItemProperties.5.Lection5Program2 PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.ItemProperties.14.Lection14Program5 PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.ItemProperties.3.Lection3Program5 PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.ItemProperties.13.Lection13Program10 PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.ItemProperties.18.Lection18Program2 PreferredExecutionTarget="/System/Volumes/Preboot/Cryptexes/App/System/Applications/Safari.app" />
-  <MonoDevelop.Ide.ItemProperties.14.Lection14Program6 PreferredExecutionTarget="MonoDevelop.Default" />
-  <MultiItemStartupConfigurations>
-    <MultiItemSolutionRunConfiguration Id="1" Name="1">
-      <Items>
-        <StartupItem ItemId="{62982878-7D85-4332-95E8-2EE074248885}" ItemName="Lection9Program1" ConfigurationId="Default" />
-        <StartupItem ItemId="{706BF189-5AA3-4808-B9EB-A32969812AD3}" ItemName="Lection9Program2" ConfigurationId="Default" />
-      </Items>
-    </MultiItemSolutionRunConfiguration>
-  </MultiItemStartupConfigurations>
-  <MonoDevelop.Ide.ItemProperties.12.Lection12Program3 PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MonoDevelop.Ide.ItemProperties.11.Lection11Program3 PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.ItemProperties.13.Lection13Program6 PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.ItemProperties.14.Lection14Program20 PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.ItemProperties.14.Lection14Program4 PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.DebuggingService.Breakpoints>
-    <Breakpoint file="/Users/kirillorlov/csac/M/repo/Lections/Lection1Program2/Program.cs" relfile="Lection1Program2/Program.cs" line="7" column="1" />
-    <Breakpoint file="/Users/kirillorlov/csac/M/repo/Lections/Lection3Program1/Person.cs" relfile="Lection3Program1/Person.cs" line="111" column="1" />
-    <Breakpoint file="/Users/kirillorlov/csac/M/repo/Lections/Lection3Program1/Person.cs" relfile="Lection3Program1/Person.cs" line="18" column="1" />
-    <Breakpoint file="/Users/kirillorlov/csac/M/repo/Lections/Lection19Program1/Controllers/WeatherForecastController.cs" relfile="Lection19Program1/Controllers/WeatherForecastController.cs" line="19" column="1" />
-    <Breakpoint file="/Users/kirillorlov/csac/M/repo/Lections/Lection19Program2/Controllers/LibraryController.cs" relfile="Lection19Program2/Controllers/LibraryController.cs" line="95" column="1" />
-    <Breakpoint file="/Users/kirillorlov/csac/M/repo/Lections/Practice19Api/Repo/ProductRepository.cs" relfile="Practice19Api/Repo/ProductRepository.cs" line="79" column="1" />
-    <Breakpoint file="/Users/kirillorlov/csac/M/repo/Lections/Practice19Api/Repo/ProductRepository.cs" relfile="Practice19Api/Repo/ProductRepository.cs" line="44" column="1" />
-    <Breakpoint file="/Users/kirillorlov/csac/M/repo/Lections/Lection20Program3/Program.cs" relfile="Lection20Program3/Program.cs" line="24" column="1" />
-  </MonoDevelop.Ide.DebuggingService.Breakpoints>
-  <MonoDevelop.Ide.ItemProperties.12.Lection12Program6 PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.ItemProperties.12.Lection12Program2 PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.ItemProperties.3.Lection3Program6 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.14.Lection14Program11 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.12.Lection12Program3 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.13.Lection13Program7 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.13.Lection13Program4 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.14.Lection14Program3 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.12.Lection12Program5 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.14.Lection14Program10 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.7.Lection7Program1 PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.16.Lection16Program1 PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.ItemProperties.14.Lection14Program8 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.12.Lection12Program7 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.9.Lection9Program1 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.14.Lection14Program1 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.5.Lection5Program4 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.12.Lection12Program4 PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.9.Lection9Program2 PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.ItemProperties.14.Lection14Program2 PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.ItemProperties.17.Lection17Program4 PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.ItemProperties.14.Lection14Program9 PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.ItemProperties.13.Lection13Program13 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.13.Lection13Program1 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.5.Lection5Program2 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.11.Lection11Program5 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.18.Practice18Api PreferredExecutionTarget="/System/Volumes/Preboot/Cryptexes/App/System/Applications/Safari.app" />
+  <MonoDevelop.Ide.ItemProperties.3.Lection3Program2 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.18.Lection18Program1 PreferredExecutionTarget="/System/Volumes/Preboot/Cryptexes/App/System/Applications/Safari.app" />
+  <MonoDevelop.Ide.ItemProperties.13.Lection13Program6 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.1.Lection1Program1 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.14.Lection14Program14 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.19.Lection19Program2 PreferredExecutionTarget="/System/Volumes/Preboot/Cryptexes/App/System/Applications/Safari.app" />
+  <MonoDevelop.Ide.ItemProperties.20.Lection20Program4 PreferredExecutionTarget="/System/Volumes/Preboot/Cryptexes/App/System/Applications/Safari.app" />
+  <MonoDevelop.Ide.ItemProperties.2.Lection2Program1 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.14.Lection14Program21 PreferredExecutionTarget="MonoDevelop.Default" />
+  <Debugger.DebugSourceFolders />
+  <MonoDevelop.Ide.ItemProperties.14.Lection14Program5 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.14.Lection14Program20 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.14.Lection14Program17 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.21.lection21program2 PreferredExecutionTarget="/System/Volumes/Preboot/Cryptexes/App/System/Applications/Safari.app" />
 </Properties>
