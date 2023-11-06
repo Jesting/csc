@@ -10,3 +10,15 @@
 /Users/kirillorlov/csac/L/Lection1/Lection17Library5/obj/Debug/net7.0/refint/Lection17Library5.dll
 /Users/kirillorlov/csac/L/Lection1/Lection17Library5/obj/Debug/net7.0/Lection17Library5.pdb
 /Users/kirillorlov/csac/L/Lection1/Lection17Library5/obj/Debug/net7.0/ref/Lection17Library5.dll
+/Users/kirillorlov/csac/M/repo/Lections/Lection17Library5/bin/Debug/net7.0/Lection17Library5.deps.json
+/Users/kirillorlov/csac/M/repo/Lections/Lection17Library5/bin/Debug/net7.0/Lection17Library5.dll
+/Users/kirillorlov/csac/M/repo/Lections/Lection17Library5/bin/Debug/net7.0/Lection17Library5.pdb
+/Users/kirillorlov/csac/M/repo/Lections/Lection17Library5/obj/Debug/net7.0/Lection17Library5.csproj.AssemblyReference.cache
+/Users/kirillorlov/csac/M/repo/Lections/Lection17Library5/obj/Debug/net7.0/Lection17Library5.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kirillorlov/csac/M/repo/Lections/Lection17Library5/obj/Debug/net7.0/Lection17Library5.AssemblyInfoInputs.cache
+/Users/kirillorlov/csac/M/repo/Lections/Lection17Library5/obj/Debug/net7.0/Lection17Library5.AssemblyInfo.cs
+/Users/kirillorlov/csac/M/repo/Lections/Lection17Library5/obj/Debug/net7.0/Lection17Library5.csproj.CoreCompileInputs.cache
+/Users/kirillorlov/csac/M/repo/Lections/Lection17Library5/obj/Debug/net7.0/Lection17Library5.dll
+/Users/kirillorlov/csac/M/repo/Lections/Lection17Library5/obj/Debug/net7.0/refint/Lection17Library5.dll
+/Users/kirillorlov/csac/M/repo/Lections/Lection17Library5/obj/Debug/net7.0/Lection17Library5.pdb
+/Users/kirillorlov/csac/M/repo/Lections/Lection17Library5/obj/Debug/net7.0/ref/Lection17Library5.dll

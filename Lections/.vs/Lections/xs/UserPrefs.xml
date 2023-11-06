@@ -1,4 +1,4 @@
-﻿<Properties StartupConfiguration="{26AD7183-40F3-4CA1-A41B-9B2C9B2A278E}|https">
+﻿<Properties StartupConfiguration="{D580249F-6A44-4539-A2A4-BB32F21B6230}|https">
   <MonoDevelop.Ide.ItemProperties.8.Lection8Program1 PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.3.Lection3Program4 PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.14.Lection14Program16 PreferredExecutionTarget="MonoDevelop.Default" />
@@ -55,7 +55,6 @@
   <MonoDevelop.Ide.ItemProperties.17.Lection17Program4 PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.14.Lection14Program4 PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.21.Lection21Program1 PreferredExecutionTarget="/System/Volumes/Preboot/Cryptexes/App/System/Applications/Safari.app" />
-  <MonoDevelop.Ide.ItemProperties.21.11 FirstBuild="True" />
   <MonoDevelop.Ide.ItemProperties.3.Lection3Program1 PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.12.Lection12Program8 PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.14.Lection14Program9 PreferredExecutionTarget="MonoDevelop.Default" />
@@ -91,6 +90,7 @@
   <MonoDevelop.Ide.ItemProperties.11.Lection11Program9 PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.21.Lection21Program PreferredExecutionTarget="/System/Volumes/Preboot/Cryptexes/App/System/Applications/Safari.app" />
   <MonoDevelop.Ide.ItemProperties.17.Lection17Program7 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.21.Lection21Practice1 PreferredExecutionTarget="/System/Volumes/Preboot/Cryptexes/App/System/Applications/Safari.app" />
   <MonoDevelop.Ide.ItemProperties.3.Lection3Program6 PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.19.Practice19Api PreferredExecutionTarget="/System/Volumes/Preboot/Cryptexes/App/System/Applications/Safari.app" />
   <MonoDevelop.Ide.Workbench ActiveDocument="Lection21Program1/Repository/UserRepository.cs">
@@ -164,6 +164,7 @@
   <MonoDevelop.Ide.ItemProperties.5.Lection5Program4 PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.12.Lection12Program4 PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.9.Lection9Program2 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.21.Lection21Practice2 PreferredExecutionTarget="/System/Volumes/Preboot/Cryptexes/App/System/Applications/Safari.app" FirstBuild="True" />
   <MonoDevelop.Ide.ItemProperties.13.Lection13Program1 PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.5.Lection5Program2 PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.11.Lection11Program5 PreferredExecutionTarget="MonoDevelop.Default" />

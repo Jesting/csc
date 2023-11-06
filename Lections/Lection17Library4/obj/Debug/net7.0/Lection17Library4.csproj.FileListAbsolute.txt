@@ -10,3 +10,15 @@
 /Users/kirillorlov/csac/L/Lection1/Lection17Library4/obj/Debug/net7.0/refint/Lection17Library4.dll
 /Users/kirillorlov/csac/L/Lection1/Lection17Library4/obj/Debug/net7.0/Lection17Library4.pdb
 /Users/kirillorlov/csac/L/Lection1/Lection17Library4/obj/Debug/net7.0/ref/Lection17Library4.dll
+/Users/kirillorlov/csac/M/repo/Lections/Lection17Library4/bin/Debug/net7.0/Lection17Library4.deps.json
+/Users/kirillorlov/csac/M/repo/Lections/Lection17Library4/bin/Debug/net7.0/Lection17Library4.dll
+/Users/kirillorlov/csac/M/repo/Lections/Lection17Library4/bin/Debug/net7.0/Lection17Library4.pdb
+/Users/kirillorlov/csac/M/repo/Lections/Lection17Library4/obj/Debug/net7.0/Lection17Library4.csproj.AssemblyReference.cache
+/Users/kirillorlov/csac/M/repo/Lections/Lection17Library4/obj/Debug/net7.0/Lection17Library4.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kirillorlov/csac/M/repo/Lections/Lection17Library4/obj/Debug/net7.0/Lection17Library4.AssemblyInfoInputs.cache
+/Users/kirillorlov/csac/M/repo/Lections/Lection17Library4/obj/Debug/net7.0/Lection17Library4.AssemblyInfo.cs
+/Users/kirillorlov/csac/M/repo/Lections/Lection17Library4/obj/Debug/net7.0/Lection17Library4.csproj.CoreCompileInputs.cache
+/Users/kirillorlov/csac/M/repo/Lections/Lection17Library4/obj/Debug/net7.0/Lection17Library4.dll
+/Users/kirillorlov/csac/M/repo/Lections/Lection17Library4/obj/Debug/net7.0/refint/Lection17Library4.dll
+/Users/kirillorlov/csac/M/repo/Lections/Lection17Library4/obj/Debug/net7.0/Lection17Library4.pdb
+/Users/kirillorlov/csac/M/repo/Lections/Lection17Library4/obj/Debug/net7.0/ref/Lection17Library4.dll

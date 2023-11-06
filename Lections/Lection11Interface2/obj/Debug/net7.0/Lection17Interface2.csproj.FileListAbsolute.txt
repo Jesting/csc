@@ -10,3 +10,15 @@
 /Users/kirillorlov/csac/L/Lection1/Lection11Interface2/obj/Debug/net7.0/refint/Lection17Interface2.dll
 /Users/kirillorlov/csac/L/Lection1/Lection11Interface2/obj/Debug/net7.0/Lection17Interface2.pdb
 /Users/kirillorlov/csac/L/Lection1/Lection11Interface2/obj/Debug/net7.0/ref/Lection17Interface2.dll
+/Users/kirillorlov/csac/M/repo/Lections/Lection11Interface2/bin/Debug/net7.0/Lection17Interface2.deps.json
+/Users/kirillorlov/csac/M/repo/Lections/Lection11Interface2/bin/Debug/net7.0/Lection17Interface2.dll
+/Users/kirillorlov/csac/M/repo/Lections/Lection11Interface2/bin/Debug/net7.0/Lection17Interface2.pdb
+/Users/kirillorlov/csac/M/repo/Lections/Lection11Interface2/obj/Debug/net7.0/Lection17Interface2.csproj.AssemblyReference.cache
+/Users/kirillorlov/csac/M/repo/Lections/Lection11Interface2/obj/Debug/net7.0/Lection17Interface2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kirillorlov/csac/M/repo/Lections/Lection11Interface2/obj/Debug/net7.0/Lection17Interface2.AssemblyInfoInputs.cache
+/Users/kirillorlov/csac/M/repo/Lections/Lection11Interface2/obj/Debug/net7.0/Lection17Interface2.AssemblyInfo.cs
+/Users/kirillorlov/csac/M/repo/Lections/Lection11Interface2/obj/Debug/net7.0/Lection17Interface2.csproj.CoreCompileInputs.cache
+/Users/kirillorlov/csac/M/repo/Lections/Lection11Interface2/obj/Debug/net7.0/Lection17Interface2.dll
+/Users/kirillorlov/csac/M/repo/Lections/Lection11Interface2/obj/Debug/net7.0/refint/Lection17Interface2.dll
+/Users/kirillorlov/csac/M/repo/Lections/Lection11Interface2/obj/Debug/net7.0/Lection17Interface2.pdb
+/Users/kirillorlov/csac/M/repo/Lections/Lection11Interface2/obj/Debug/net7.0/ref/Lection17Interface2.dll

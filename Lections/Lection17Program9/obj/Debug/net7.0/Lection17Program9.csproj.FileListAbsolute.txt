@@ -46,3 +46,11 @@
 /Users/kirillorlov/csac/L/Lection1/Lection17Program9/obj/Debug/net7.0/Lection17Program9.pdb
 /Users/kirillorlov/csac/L/Lection1/Lection17Program9/obj/Debug/net7.0/Lection17Program9.genruntimeconfig.cache
 /Users/kirillorlov/csac/L/Lection1/Lection17Program9/obj/Debug/net7.0/ref/Lection17Program9.dll
+/Users/kirillorlov/csac/M/repo/Lections/Lection17Program9/obj/Debug/net7.0/Lection17Program9.csproj.AssemblyReference.cache
+/Users/kirillorlov/csac/M/repo/Lections/Lection17Program9/obj/Debug/net7.0/Lection17Program9.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kirillorlov/csac/M/repo/Lections/Lection17Program9/obj/Debug/net7.0/Lection17Program9.AssemblyInfoInputs.cache
+/Users/kirillorlov/csac/M/repo/Lections/Lection17Program9/obj/Debug/net7.0/Lection17Program9.AssemblyInfo.cs
+/Users/kirillorlov/csac/M/repo/Lections/Lection17Program9/obj/Debug/net7.0/Lection17Program9.csproj.CoreCompileInputs.cache
+/Users/kirillorlov/csac/M/repo/Lections/Lection17Program9/obj/Debug/net7.0/Lection17Program9.dll
+/Users/kirillorlov/csac/M/repo/Lections/Lection17Program9/obj/Debug/net7.0/refint/Lection17Program9.dll
+/Users/kirillorlov/csac/M/repo/Lections/Lection17Program9/obj/Debug/net7.0/Lection17Program9.pdb

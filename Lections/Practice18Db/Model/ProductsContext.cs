@@ -12,8 +12,9 @@ public partial class ProductsContext : DbContext
 
     protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
 
-        => optionsBuilder.UseLazyLoadingProxies().UseNpgsql("Host=localhost;Username=postgres;Password=example;Database=Product");
-
+        //=> optionsBuilder.UseLazyLoadingProxies().UseNpgsql("Host=localhost;Username=postgres;Password=example;Database=Product");
+        => optionsBuilder.UseLazyLoadingProxies().UseNpgsql("Host=database;Username=postgres;Password=example;Database=Product");
+    
     protected override void OnModelCreating(ModelBuilder modelBuilder)
     {
         modelBuilder.Entity<ProcuctGroup>(entity =>
